@@ -36,13 +36,5 @@ permalink: /about/
 	- Leading a technological field in the department, including training and delivering lectures.
 	- Characterizing and testing information systems and data, accompanying development. Collaborating with product development and management teams.
 
-### THESES, REPORTS AND PUBLICATIONS IN PREPARATION
-  
-### SCHOLARSHIPS AND AWARDS
 
-### TEACHING
-   ### CONFERENCE
-
-
-### SKILLS 
 
