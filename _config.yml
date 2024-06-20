@@ -18,13 +18,13 @@ avatar: ""
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:hadari.wi@gmail.com
+  email: hadari.wi@gmail.com
   facebook: Hadar Aharoni
   flickr:
   github: https://github.com/HadarAharoni
-  instagram:hadaraharoni1
+  instagram: hadaraharoni1
   linkedin:
-  pinterest:hadariwi
+  pinterest: hadariwi
   rss: # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
