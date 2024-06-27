@@ -178,7 +178,7 @@ Where:
 
 #### PCR Reaction Mix:
 | Component             | Volume  |
-|-----------------------|---------|
+|----|---------|
 | PCR Grade H2O (note a)| 16 µL   |
 | Red Mix               | 25 µL   |
 | Forward primer (10µM) | 2.5 µL  |

@@ -16,4 +16,4 @@
    - **Substitution Model:** normal
 3. Click `OK`.
 
-![step](/Users/hadarwinckler/Documents/GitHub/HadarAharoni_Notebook/images/tree.jpeg)
+![step](images/tree.jpeg)
