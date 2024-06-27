@@ -3,10 +3,10 @@
 #### 1. Gather Sequence Data
 - Obtain the target sequence for *Asparagopsis taxiformis* from a reliable database like NCBI GenBank.
 
-![step](HadarAharoni_Notebook/images/step1.jpeg)
+![step](images/step1.jpeg)
 
 #### 2. ClustalW
-![step](HadarAharoni_Notebook/images/step2.png)
+![step](images/step2.png)
 
 
 #### 3. Choose Primer Design Tool
@@ -24,6 +24,6 @@
 #### 5. Generate Primers
 - Run the tool to generate primer pairs.
 - Review for self-dimers, hairpins, and cross-dimers.
-![step](HadarAharoni_Notebook/images/final.png)
+![step](images/final.png)
 
 
