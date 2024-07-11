@@ -1,4 +1,5 @@
 #qPCR genes assignment#
+
 ###Bromine compounds under stress###
 
 The *algae Asparagopsis taxiformis* is known for its ability to produce bromine compounds. These bromine compounds are secondary natural substances, meaning they significantly affect the algae itself and related organisms but are not essential for the algae's survival. Therefore, **I hypothesize that under stress conditions such as extreme heat, high salinity, and high acidity, the production of bromine compounds will decrease as energy is diverted towards producing compounds necessary for survival.**
