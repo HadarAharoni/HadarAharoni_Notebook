@@ -8,24 +8,26 @@ It is known that the enzyme linked to the production of bromine compounds is van
 As a reference gene, I will use the rbcL gene, which encodes the large subunit of RuBisCO. This is the most abundant protein in the cell, and its expression level is generally stable and not expected to change significantly under various stress conditions. Therefore, rbcL provides a reliable baseline for normalizing gene expression in qPCR experiments.
 
 ####mbb primers:####
- LEFT PRIMER: TACCTGATCTCGACGTCACG (20 bp)
+
+LEFT PRIMER: TACCTGATCTCGACGTCACG (20 bp)
  
- RIGHT PRIMER: CGTGCGCTCGTTCTGAATAA (20 bp)
+RIGHT PRIMER: CGTGCGCTCGTTCTGAATAA (20 bp)
  
- PRODUCT SIZE: 152 bp
+PRODUCT SIZE: 152 bp
  
- tm (both): 59.00 
+tm (both): 59.00 
  
 ####rbcL primers (referance gene):####
- LEFT PRIMER: CAATTGCCGCTTCTGGTGAA (20 bp)
+
+LEFT PRIMER: CAATTGCCGCTTCTGGTGAA (20 bp)
  
- RIGHT PRIMER: TTTTACGTGCCCAGACTGC (19 bp)
+RIGHT PRIMER: TTTTACGTGCCCAGACTGC (19 bp)
  
- PRODUCT SIZE: 174 bp
+PRODUCT SIZE: 174 bp
  
- tm left: 59.40
+tm left: 59.40
  
- tm right: 58.38
+tm right: 58.38
  
 
  
