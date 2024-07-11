@@ -3,6 +3,6 @@
 - **Step 3:** Calculate ΔΔCt (ΔΔCt = ΔCt(Experimental) - ΔCt(Control)).
 - **Step 4:** Calculate relative gene expression using the formula 1.9^(-ΔΔCt).
 
-![aa](images/aa.jpeg)
+![aa](../images/aa.jpeg)
 
-![bb](images/bb.jpeg) 
+![bb](../images/bb.jpeg) 
