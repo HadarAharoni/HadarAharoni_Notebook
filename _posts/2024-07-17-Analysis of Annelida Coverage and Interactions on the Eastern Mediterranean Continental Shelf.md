@@ -21,3 +21,5 @@ The following assignment focuses on analyzing data from a photo-survey of benthi
 ## 2) Correlation Between *Annelida* and *Chordata* Coverage on the Eastern Mediterranean Continental Shelf
 
 ![Annelida and Chordata Correlation](https://github.com/HadarAharoni/HadarAharoni_Notebook/blob/main/images/Rplot03.png)
+
+The correlation is  0.3187752, so there is no correlation between Annelida and Chordata Coverage on the Eastern Mediterranean Continental Shelf.
