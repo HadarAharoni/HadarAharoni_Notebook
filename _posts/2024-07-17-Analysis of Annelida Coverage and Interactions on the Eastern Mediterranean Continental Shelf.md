@@ -16,8 +16,8 @@ The following assignment focuses on analyzing data from a photo-survey of benthi
 | site:as.factor(depth):season  |  2 |    328 | 10.9338 | 2.5298e-05 *** |
 
 
-![Annelida Anova](https://github.com/HadarAharoni/HadarAharoni_Notebook/blob/main/_posts/images/ANOVA.png)
+![Annelida Anova](https://github.com/HadarAharoni/HadarAharoni_Notebook/blob/main/images/ANOVA.png)
 
 ## 2) Correlation Between *Annelida* and *Chordata* Coverage on the Eastern Mediterranean Continental Shelf
 
-![Annelida and Chordata Correlation](https://github.com/HadarAharoni/HadarAharoni_Notebook/blob/main/_posts/images/Rplot03.png)
+![Annelida and Chordata Correlation](https://github.com/HadarAharoni/HadarAharoni_Notebook/blob/main/images/Rplot03.png)
